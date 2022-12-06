@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/weather-today/static/css/main.153b9c74.css",
-    "main.js": "/weather-today/static/js/main.1338fce4.js",
+    "main.js": "/weather-today/static/js/main.c1345319.js",
     "index.html": "/weather-today/index.html",
     "main.153b9c74.css.map": "/weather-today/static/css/main.153b9c74.css.map",
-    "main.1338fce4.js.map": "/weather-today/static/js/main.1338fce4.js.map"
+    "main.c1345319.js.map": "/weather-today/static/js/main.c1345319.js.map"
   },
   "entrypoints": [
     "static/css/main.153b9c74.css",
-    "static/js/main.1338fce4.js"
+    "static/js/main.c1345319.js"
   ]
 }
