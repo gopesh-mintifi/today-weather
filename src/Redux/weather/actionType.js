@@ -1,0 +1,3 @@
+export const WEATHER_LIST ="WEATHER_LIST";
+export const FOUR_DAY_DATA = "FOUR_DAY_DATA";
+export const MORE_WEATHER_DATA = "MORE_WEATHER_DATA";

@@ -1,0 +1,112 @@
+// body{
+//     background-color: rgb(11, 11, 77);
+//   }
+.home{
+    background-color: CornflowerBlue;
+    height: 800px;
+    .weather_name{
+    //   text-align: center;
+       background-color: #1d4080;
+      color:white;
+      padding:5px 0px;
+    }
+    .weatherBox{
+      width: 1000px;
+      box-shadow:0px 0px 11px grey;
+      border-radius: 10px;
+    }
+
+    .nav-items{
+  
+      overflow: auto;
+      white-space: nowrap;
+      box-shadow: 0px 0px 10px cornflowerblue;
+      border-radius: 20px;
+    }
+
+    .nav-items div{
+      border-radius: 2px solid gray;
+      display: inline-block;
+    
+      text-align: center;
+      padding: 14px;
+      text-decoration: none;
+    }
+    .menu-container{
+      display: flex;
+      flex-direction: row;
+      width:775px;
+
+    }
+    .menu-container button{
+      margin-top:60px;
+      
+    }
+    .weatherList:hover{
+      box-shadow: 0px 0px 10px gray;
+      color:white;
+      background-color:cornflowerblue ;
+    }
+}
+
+.moreData{
+  .nav-items{
+  
+    overflow: auto;
+    white-space: nowrap;
+    box-shadow: 0px 0px 10px cornflowerblue;
+    border-radius: 20px;
+  }
+
+  .nav-items div{
+    border-radius: 2px solid gray;
+    display: inline-block;
+  
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  .menu-container{
+    display: flex;
+    flex-direction: row;
+    width:90%;
+
+  }
+  .menu-container button{
+    margin-top:60px;
+    
+  }
+}
+
+.topnav {
+  overflow: hidden;
+  
+}
+
+.topnav .listSection {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.listPipe{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.topnav .listSection:hover {
+  border-bottom: 3px solid yellow;
+}
+
+.topnav .listSection.active {
+  border-bottom: 3px solid yellow;
+}
+.timeDiv{
+  margin: 28px;
+  text-align: center;
+}
