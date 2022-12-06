@@ -1,6 +1,6 @@
 {
   "name": "weather-today",
-  "homepage": "https://gopesh-mintifi.github.io/weather-today",
+  "homepage": "https://gopesh-mintifi.github.io/today-weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
