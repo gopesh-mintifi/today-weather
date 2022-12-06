@@ -12,9 +12,9 @@ function App() {
     <Provider store={store}>
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Home/>} />
-      <Route path="/home" element={<Home/>} />
-      <Route path='/moredata' element={<MoreData/>}/>
+      <Route path="/weather-today" element={<Home/>} />
+      <Route path="/weather-today/home" element={<Home/>} />
+      <Route path='/weather-today/moredata' element={<MoreData/>}/>
     </Routes>
     </BrowserRouter>
     </Provider>
